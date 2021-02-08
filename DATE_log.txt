@@ -1,0 +1,30 @@
+
+Unsuccessful Salesperson registration
+You have successfully logged out
+You successfully logged in at 2020-10-22 13:35:18 for user luffy@dcmail.ca.
+You have successfully logged out
+Unsuccessful log in
+Unsuccessful log in
+You successfully logged in at 2020-10-22 14:14:07 for user dom@dcmail.ca.
+You successfully created a client at 2020-10-22 14:14:48 client name Itachi.
+You have successfully logged out
+Unsuccessful log in
+You successfully logged in at 2020-10-22 15:52:12 for user mike@dcmail.ca.
+Unsuccessful call record registration
+You successfully created a call record at 2020-10-22 15:54:49 client name Itachi.
+You have successfully logged out
+You successfully logged in at 2020-10-23 14:18:19 for user luffy@dcmail.ca.
+You successfully logged in at 2020-10-23 14:25:50 for user dom@dcmail.ca.
+Unsuccessful log in
+You successfully logged in at 2020-10-23 15:01:13 for user ichigo@dcmail.ca.
+You successfully logged in at 2020-11-19 15:43:28 for user luffy@dcmail.ca.
+You successfully logged in at 2020-11-19 19:14:38 for user luffy@dcmail.ca.
+You successfully changed your password at 2020-11-19 19:14:53
+You have successfully logged out
+Unsuccessful log in
+You successfully logged in at 2020-11-19 19:45:24 for user luffy@dcmail.ca.
+You successfully logged in at 2020-11-20 16:03:51 for user luffy@dcmail.ca.
+Unsuccessful email verification
+You successfully logged in at 2020-12-15 15:29:59 for user luffy@dcmail.ca.
+You successfully logged in at 2020-12-15 15:31:03 for user luffy@dcmail.ca.
+You successfully logged in at 2020-12-15 15:34:41 for user luffy@dcmail.ca.
